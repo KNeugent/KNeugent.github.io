@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Kathryn Neugent is Awesome
+title: Dr. Kathryn Neugent
 
 # Your name to show in the footer
 author: Kathryn Neugent
@@ -20,11 +20,11 @@ author: Kathryn Neugent
 ###############################################
 
 navbar-links:
-  About Me: "About Me - KN"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "About Me"
+  CV: "CV"
+  Astronomy: "Astronomy"
+  Computer Science: "CompSci"
+  Hobbies: "Hobbies"
 
 ################
 # --- Logo --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/kfn-icon.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,16 +49,19 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "KathrynNeugent@gmail.com"
+  linkedin: kneugent
+  github: KNeugent
+  twitter: KathrynNeugent
+  google-scholar: KathrynNeugent
+  youtube: c/KathrynNeugent
+  
+#  ORCID: your ORCID ID
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  patreon: DeanAttali
+#  facebook: deanattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,8 +74,6 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
