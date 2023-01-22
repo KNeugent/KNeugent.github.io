@@ -6,6 +6,6 @@ title: Curriculum Vitae
 <h1 style="text-align:center">Curriculum Vitae</h1>
 <p style="text-align:center">last updated: January 22, 2023</p>
 
-<p class="has-black-color has-text-color"><a href="https://KNeugent.github.io/assets/pdf/KNeugentCV.pdf"><strong>pdf of CV</strong></a> | <a href="https://KNeugent.github.io/assets/pdf/KNeugentPubs.pdf" target="_blank" rel="noreferrer noopener"><strong>pdf of Publications</strong></a> | <a href="https://ui.adsabs.harvard.edu/public-libraries/DRyvin-XSxGUqpQ8ZPbG2Q" target="_blank" rel="noreferrer noopener"><strong>ads list of papers</strong></a> | <a href="https://youtube.com/playlist?list=PLT3JlNWNE14jK05MRp0qDyxsOmLLYuel5" target="_blank" rel="noreferrer noopener"><strong>YouTube library of my talks</strong></a> </p>
+<p style="text-align:center">class="has-black-color has-text-color"><a href="https://KNeugent.github.io/assets/pdf/KNeugentCV.pdf"><strong>pdf of CV</strong></a> | <a href="https://KNeugent.github.io/assets/pdf/KNeugentPubs.pdf" target="_blank" rel="noreferrer noopener"><strong>pdf of Publications</strong></a> | <a href="https://ui.adsabs.harvard.edu/public-libraries/DRyvin-XSxGUqpQ8ZPbG2Q" target="_blank" rel="noreferrer noopener"><strong>ads list of papers</strong></a> | <a href="https://youtube.com/playlist?list=PLT3JlNWNE14jK05MRp0qDyxsOmLLYuel5" target="_blank" rel="noreferrer noopener"><strong>YouTube library of my talks</strong></a> </p>
 
-<object data="../assets/pdf/KNeugentCVandPubs.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/pdf/KNeugentCVandPubs.pdf" width="1000" height="1000" align=middle type='application/pdf'></object>
