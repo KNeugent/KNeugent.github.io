@@ -1,7 +1,6 @@
 ---
-layout: minimal
+layout: page
 title: Astronomy
-subtitle: An overview of my astronomy research
 ---
 
 Yay astronomy.
