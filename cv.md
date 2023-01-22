@@ -3,6 +3,8 @@ layout: default
 title: Curriculum Vitae
 ---
 
+<h1>Curriculum Vitae</h1>
+
 <p>(last updated: January 22, 2023)</p>
 
 <p class="has-black-color has-text-color"><a href="https://KNeugent.github.io/assets/pdf/KNeugentCV.pdf"><strong>pdf of CV</strong></a> | <a href="https://KNeugent.github.io/assets/pdf/KNeugentPubs.pdf" target="_blank" rel="noreferrer noopener"><strong>pdf of Publications</strong></a></p>
