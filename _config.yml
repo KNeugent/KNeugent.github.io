@@ -20,7 +20,6 @@ author: Kathryn Neugent
 ###############################################
 
 navbar-links:
-  About Me: "About Me"
   CV: "CV"
   Astronomy: "Astronomy"
   Computer Science: "CompSci"
@@ -131,7 +130,7 @@ navbar-text-col: "#1B2631"
 navbar-border-col: "#1B2631"
 page-col: "#F0F8FF"
 text-col: "#1B2631"
-link-col: "#1B2631"
+link-col: "#6699CC"
 hover-col: "#1B2631"
 footer-col: "#6699CC"
 footer-text-col: "#1B2631"
