@@ -20,10 +20,10 @@ author: Kathryn Neugent
 ###############################################
 
 navbar-links:
-  CV: "CV"
-  Astronomy: "Astronomy"
-  Computer Science: "CompSci"
-  Hobbies: "Hobbies"
+  CV: "cv"
+  Astronomy: "astronomy"
+  Computer Science: "compSci"
+  Hobbies: "hobbies"
 
 ################
 # --- Logo --- #
