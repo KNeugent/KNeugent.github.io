@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June 2021: The month of many conferences
+title: June 2021 - The month of many conferences
 subtitle: AAS, GAPs, and EAS!
 date: 2021-06-18
 tags: [astronomy, conference, video]
