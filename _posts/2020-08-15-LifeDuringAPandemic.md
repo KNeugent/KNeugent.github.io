@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Life During A Pandemic
-subtitle: A successful observing run looking for Wolf-Rayet stars
 date: 2020-08-15
 cover-img: /assets/img/celestarium.jpg
 share-img: /assets/img/celestarium.jpg
