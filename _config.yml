@@ -20,6 +20,7 @@ author: Kathryn Neugent
 ###############################################
 
 navbar-links:
+  Blog: "blog"
   CV: "cv"
   Astronomy: "astronomy"
   Hobbies: "hobbies"
@@ -49,11 +50,11 @@ title-img: "assets/img/star.png"
 social-network-links:
   email: "KathrynNeugent@gmail.com"
   linkedin: kneugent
-  github: KNeugent
-  twitter: KathrynNeugent
   google-scholar: citations?user=D7Zbpv0AAAAJ&hl=en
-  youtube: c/KathrynNeugent
-  
+
+#  youtube: c/KathrynNeugent
+#  github: KNeugent
+#  twitter: KathrynNeugent
 #  ORCID: your ORCID ID
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
