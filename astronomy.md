@@ -29,7 +29,8 @@ After massive OB stars burn through their hydrogen, their evolutionary path is m
 My collaborators and I set out to identify a complete sample of YSGs in the Large and Small Magellanic Clouds (LMC, SMC). Before the Gaia spacecraft launched, the only reliable way to separate extragalactic YSGs from foreground Galactic yellow dwarfs was to obtain spectra. Using the CTIO 4m, we observed around 2500 stars in the SMC and LMC and used radial velocities to identify 800 YSGs. Our initial YSG luminosity function in the SMC showed that the evolutionary models predicted far more high luminosity YSGs than existed (see the figure below, left) and this discrepancy spanned across all metallicity regimes. After collaborating with our theoretician colleagues, improvements were made to how mass-loss and convection were treated in the evolutionary models. We then compared the updated models with our observational results in the LMC, and the agreement was excellent, as is shown in the Figure below on the right. As a result of my observations and collaborations, the evolutionary models are now able to reproduce the observed YSG luminosity distribution.
 
 ![YSGs](/assets/img/YSGs.png){: .mx-auto.d-block :}
-Caption: HR Diagrams of observed YSG populations with Geneva evolutionary tracks. Our initial study in the SMC (left) showed a lack of observed high luminosity YSGs that were predicted by the models. After improvements were made to the models, the agreement was much improved (right).
+
+_HR Diagrams of observed YSG populations with Geneva evolutionary tracks. Our initial study in the SMC (left) showed a lack of observed high luminosity YSGs that were predicted by the models. After improvements were made to the models, the agreement was much improved (right)._
 
 ## Wolf-Rayet stars
 ### How Does Metallicity Affect Wolf-Rayet Populations?
@@ -41,7 +42,8 @@ To search for WRs, we imaged the entire optical disks of these galaxies with int
 However, it wasn’t just the number of new WRs that we found that was so exciting, but also their types. Ten of the new LMC discoveries are an entirely new class of WRs, which we've called WN3/O3s. These WRs show both strong emission similar to that of an early-type WN3 but also strong absorption like that of an O3V. However, due to their faint magnitudes, we know they are not WN3 + O3V binary systems. My Master's thesis work at the Northern Arizona University focused on modeling these stars with the non-LTE spectral modeling program CMFGEN to determine a single set of physical parameters that reproduced the spectrum of each of these stars. I found that while their temperatures and luminosities are consistent with other LMC WNs, their mass-loss rates are much lower. The evolutionary status of these stars is still being debated within the massive star community: are they just a normal, short-lived evolutionary phase as O stars turn into WRs? Or have they been stripped by compact companions and will soon merge to create gravitational wave events?
 
 ![WRs](/assets/img/WRs.png){: .mx-auto.d-block :}
-Caption: WC/WN ratio vs. metallicity. Note the vast improvement in the agreement between the observations and model predictions before I began this study (left) compared to when I finished (right). This was solved by my discovery of 177 new WRs in M31, M33, and the LMC.
+
+_WC/WN ratio vs. metallicity. Note the vast improvement in the agreement between the observations and model predictions before I began this study (left) compared to when I finished (right). This was solved by my discovery of 177 new WRs in M31, M33, and the LMC._
 
 ## Red Supergiants
 ### What is the Binary Fraction of Red Supergiants?
@@ -50,7 +52,8 @@ For my PhD dissertation at the University of Washington working with Dr. Emily L
 To identify the overall binary fraction of RSGs in the LMC, M31, and M33, we identified a complete sample of RSGs down to a log luminosity > 4.2 using Gaia to remove foreground stars and near-IR photometry to separate out the RSGs from bright asymptotic giant branch stars. After characterizing the range of color space where I expected RSG binaries to reside, I was able to estimate the overall binary fraction of RSGs as a function of metallicity across all three galaxies and found that there was a surprising decreasing trend with decreasing metallicity (see the figure below, right). This environmental dependence on the massive star binary fraction is not echoed in the evolutionary models and thus presents an interesting question for massive star evolution, including the creation of gravitational waves.
 
 ![RSGs](/assets/img/RSGs.png){: .mx-auto.d-block :}
-Caption: (left) Combined RSG+B star spectrum showing both the B star's upper Balmer lines and RSG's TiO bands. (right) M33 RSG+OB binary fraction as a function of decreasing metallicity.
+
+_(left) Combined RSG+B star spectrum showing both the B star's upper Balmer lines and RSG's TiO bands. (right) M33 RSG+OB binary fraction as a function of decreasing metallicity._
 
 ## Massive Star End States
 ### What's next? (for both me and the stars)
