@@ -8,6 +8,7 @@ My research focuses on studying massive stars across the HR Diagram from hot OB 
 Here I give a *very* brief overview of massive star astronomy and attempt to place my research into the greater context of why studying these objects is so exciting and important.
 
 ## Why Study Massive Stars?
+Massive stars are the cosmic engines of the Universe. The majority of the oxygen we breathe, the silver and gold we prize, and the carbon that allows for life as we know it, is created during the explosive death of a massive star.
 
 ## Unevolved OB stars
 
