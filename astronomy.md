@@ -53,5 +53,5 @@ To identify the overall binary fraction of RSGs in the LMC, M31, and M33, we ide
 Caption: (left) Combined RSG+B star spectrum showing both the B star's upper Balmer lines and RSG's TiO bands. (right) M33 RSG+OB binary fraction as a function of decreasing metallicity.
 
 ## Massive Star End States
-### What's next?
+### What's next? (for both me and the stars)
 Now that I’ve spent the last decade researching various aspects of massive star evolution, I am currently using this knowledge to observationally constrain GW progenitor systems as a NASA Hubble Fellow. Check back for more information as I continue my research!
