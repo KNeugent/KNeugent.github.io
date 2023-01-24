@@ -3,7 +3,7 @@ layout: post
 title: Lowell's Meet An Astronomer
 subtitle: Interviews about red supergiants and Wolf-Rayet stars
 date: 2020-07-01
-share-img: /assets/img/MeetAstroRSG.png
+share-img: /assets/img/MeetAstroRSG.jpg
 tags: [astronomy, video]
 ---
 

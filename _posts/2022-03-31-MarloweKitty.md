@@ -2,8 +2,8 @@
 layout: post
 title: Magnificent Marlowe Kitty
 date: 2022-03-31
-cover-img: /assets/img/marlowe11.png
-share-img: /assets/img/marlowe11.png
+cover-img: /assets/img/marlowe11.jpg
+share-img: /assets/img/marlowe11.jpg
 tags: [life events, animals]
 ---
 
@@ -17,7 +17,7 @@ Marlowe was then adopted by a couple and their cattle dog who clearly loved her 
 
 After Betty passed in early November 2019, Garrett and I handled our grief differently. I was ready to adopt a new kitty almost immediately, but Garrett needed a bit more time. After a few weeks had passed, I started sensing that Garrett was warming up to the idea, and we spent a little while looking at the Seattle Humane Society webpage. I texted him a picture of Marlowe the following day.
 
-![marlowe9](/assets/img/marlowe9.png)
+![marlowe9](/assets/img/marlowe9.jpg)
 
 _Text exchange between Garrett (grey) and me (blue) right before we headed out to met Marlowe._
 
@@ -57,19 +57,19 @@ Marlowe also had some other strange quirks including:
 
 We're convinced she was a lefty, and she'd always sit with her left paw out in front.
 
-![marlowe10](/assets/img/marlowe10.png)
+![marlowe10](/assets/img/marlowe10.jpg)
 
 Her tail had a mind of its own. It was incredibly twitchy, she'd wag it like a dog would, and she'd also often forget that it existed (as is shown in this photo).
 
-![marlowe11](/assets/img/marlowe11.png)
+![marlowe11](/assets/img/marlowe11.jpg)
 
 She'd usually sleep with her head in her paws, or her paws over her eyes as if her surroundings were just too much to handle.
 
-![marlowe12](/assets/img/marlowe12.png)
+![marlowe12](/assets/img/marlowe12.jpg)
 
 But on the rare occasions when her eyes weren't covered, she'd often sleep with her eyes open. (note: she isn't asleep in this picture, but her eyes sure are open ...)
 
-![marlowe13](/assets/img/marlowe13.png)
+![marlowe13](/assets/img/marlowe13.jpg)
 
 She also \*loved\* human food. Soon after we adopted her, I put a hand full of chocolate chips in her face to sniff with the intent of showing her that it wasn't something she was interested in. Instead, she lunged and tried to eat one. While we can't be sure this is where her kidney problems came from, she certainly was used to eating human food at some point in her life.
 
