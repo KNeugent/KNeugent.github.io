@@ -7,8 +7,6 @@ share-img: /assets/img/sofia30.jpg
 tags: [astronomy, observing, travel]
 ---
 
-![sofia11](/assets/img/sofia11.jpg)
-
 On October 15, 2017 I got the amazing opportunity to travel on [SOFIA](https://www.sofia.usra.edu/multimedia/about-sofia/sofia-aircraft), the Stratospheric Observatory for Infrared Astronomy. My University of Washington advisor, Emily Levesque, proposed to observe the dust of massive red supergiant stars using FORCAST, a mid-IR camera and spectrograph. My long-time collaborator Phil Massey was a co-I on the proposal and they both agreed to take me on the flight if we were awarded time. A few months ago we heard that the proposal was successful and Phil and I signed up for a flight in mid-October (Emily traveled down to New Zealand a few months ago to observe some of the southern hemisphere targets).
 
 ![sofia9](/assets/img/sofia9.jpg)

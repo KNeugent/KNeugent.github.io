@@ -7,13 +7,7 @@ share-img: /assets/img/Betty1.jpg
 tags: [life events, animals]
 ---
 
-12/21/2007 - 11/15/2019
-
-![Betty2](/assets/img/Betty2.jpg)
-
-_Betty at home in DC a few months after her adoption._
-
-Warning: This is long. But, she was an amazing cat, so it's worth it.
+_12/21/2007 - 11/15/2019_
 
 Betty was born on 12/21/2007 at the Washington DC Humane Society to a stray momma cat that had been turned into the shelter. For reasons that aren't well understood, she was adopted out before being spayed (but after being named and microchipped) to someone in the DC area. Sadly, sometime within the next two years she was most likely abandoned and ended up as a stray kitty on the streets of DC. She was brought back to the DC Humane Society on June 27th, 2010 and an exam found her to be pregnant. The pregnancy wasn't far along and sadly the kitties were lost as part of Betty's spaying. She remained at the shelter for another month and a half before she got a case of the sniffles and was prescribed doxycycline and put into foster care to recover on August 2nd, 2010. She got another checkup on August 22nd, 2010 and was deemed healthy enough for adoption!
 
@@ -224,3 +218,8 @@ Garrett brought her out on the balcony to feel the wind and see the people down 
 _Goodbye hugs_
 
 As this incredibly long post/essay/description shows, Betty meant the world to me and I was so lucky to have her for 9 years. She helped me through three degrees, multiple jobs, getting fired, mental health issues, multiple concussions, moving, and everything in between. She was an amazing, spunky, playful, and loving cat that cannot be replaced. But, she lived a good life with me and I'm just happy that I was able to have her for as long as I did. Betty kitty, you'll be missed.
+
+
+![Betty2](/assets/img/Betty2.jpg)
+_Betty at home in DC a few months after her adoption._
+

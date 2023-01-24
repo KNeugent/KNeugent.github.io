@@ -1,17 +1,17 @@
 ---
-
 layout: post
 title: University of Washington Distinguished Dissertation Award for STEM
 date: 2021-07-01
-share-img: /assets/img/Thesis.jpg
+cover-img: /assets/img/graduationUW.jpg
+share-img: /assets/img/graduationUW.jpg
 tags: [astronomy, graduate school]
 ---
+
+I'm thrilled to announce that I was awarded the University of Washington's Distinguished Dissertation Award for Mathematics, Physical Sciences, & Engineering! Thanks so much to my advisor, Emily Levesque, and the UW astronomy department for the nomination.
 
 ![Thesis](/assets/img/Thesis.jpg)
 
 _Me posing with my printed copy of my dissertation._
-
-I'm thrilled to announce that I was awarded the University of Washington's Distinguished Dissertation Award for Mathematics, Physical Sciences, & Engineering! Thanks so much to my advisor, Emily Levesque, and the UW astronomy department for the nomination.
 
 As part of the nomination process, I wrote a 2 page summary of my research for a science-inclined general audience. Here is a pretty good overview of what I worked on these past 4 years:
 

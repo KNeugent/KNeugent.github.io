@@ -6,11 +6,11 @@ date: 2021-06-18
 tags: [astronomy, conference, video]
 ---
 
+June 2021 has officially been the month of many (okay, three) conferences! Last week, I was an invited speaker at the American Astronomical Society's meeting-in-a-meeting on Thorne-Żytkow objects. My thesis advisor, Emily Levesque, was given the opportunity to chose a meeting topic as part of being awarded the Pierce Prize and invited a bunch of astronomers (including Kip Thorne and Anna Żytkow!) to discuss these interesting objects. My talk focused on the observational constraints of finding TŻO progenitors and included some of my thesis work on red supergiant binaries.
+
 ![AASConference](/assets/img/AASconference.jpeg)
 
-Zoom screen shot during the Thorne-Żytkow meeting. Note the presence of both Kip Thorne and Anna Żytkow!
-
-June 2021 has officially been the month of many (okay, three) conferences! Last week, I was an invited speaker at the American Astronomical Society's meeting-in-a-meeting on Thorne-Żytkow objects. My thesis advisor, Emily Levesque, was given the opportunity to chose a meeting topic as part of being awarded the Pierce Prize and invited a bunch of astronomers (including Kip Thorne and Anna Żytkow!) to discuss these interesting objects. My talk focused on the observational constraints of finding TŻO progenitors and included some of my thesis work on red supergiant binaries.
+_Zoom screen shot during the Thorne-Żytkow meeting. Note the presence of both Kip Thorne and Anna Żytkow!_
 
 This week I was invited to present at the GAPS conference (unsolved problems in red **G**iants **A**nd su**P**ergiant**S** ... how's that for a forced acronym?). I gave an overview talk on Red Supergiants and their Binary Companions: Interactions, Mergers, and More! and it can be viewed here:
 

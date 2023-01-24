@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Back at Las Campanas
-subtitle: Priority Visitors on Gemini North
+title: Priority Visitors on Gemini North
+subtitle: (featuring sea turtles!)
 date: 2017-10-29
 cover-img: /assets/img/SeaTurtle.jpg
 share-img: /assets/img/SeaTurtle.jpg
