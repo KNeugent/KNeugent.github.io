@@ -7,10 +7,6 @@ share-img: /assets/img/marlowe11.jpg
 tags: [life events, animals]
 ---
 
-![marlowe4](/assets/img/marlowe4.jpg)
-
-_Marlowe: May 17, 2011 - March 28, 2022_
-
 According to her adoption paperwork, Marlowe was born on May 17, 2011. She was surrendered to the Seattle Humane Society for the first time on December 9, 2016 due to a "change in living situation." Her intake forms note that she had runny eyes and a history of "eye problems" that had been treated at previous clinics. She was also beginning to have teeth issues and had developed a heart murmur. She was given medication for her eyes and was ready for adoption on December 19, 2016.
 
 Marlowe was then adopted by a couple and their cattle dog who clearly loved her very much. In their surrender notes, they said that Marlowe "really is the best cat." They noted that she loved catnip, cooked chicken, and sitting in the window seat (all things that we verified during our time with her). Sadly, they were shifting to a more nomadic lifestyle and had noticed that Marlowe didn't do well with changes (aka ... she peed on the furniture when stressed). Instead, they hoped Marlowe could find a calm family who would be around often, give her lots of attention, and be able to handle her health issues. They surrendered her back to the Seattle Humane Society in mid-October 2019.
@@ -112,3 +108,6 @@ We had always expected her decline to be slow, as it often is with kidney failur
 Marlowe was ready. When we got to the vet, she let me hold her without struggling, something she would never normally let me do. She passed peacefully in Garrett's arms at 1:47pm on Monday, March 28th, 2022 at Lafayette Companion Animal Hospital.
 
 Marlowe was a wonderful kitty who lived too short a life. We'll never fully understand why she developed so many health issues at such a young age, but we know that we gave her the best last 2.5 years she could have hoped for. Marlowe was the first animal Garrett and I adopted together, but she certainly won't be the last. Marlowe kitty, you will be missed.
+
+![marlowe4](/assets/img/marlowe4.jpg)
+_Marlowe: May 17, 2011 - March 28, 2022_
