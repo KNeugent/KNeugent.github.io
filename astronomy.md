@@ -59,3 +59,22 @@ _(left) Combined RSG+B star spectrum showing both the B star's upper Balmer line
 ## Massive Star End States
 ### What's next? (for both me and the stars)
 Now that I’ve spent the last decade researching various aspects of massive star evolution, I am currently using this knowledge to observationally constrain GW progenitor systems as a NASA Hubble Fellow. Check back for more information as I continue my research!
+
+****
+
+## What about non-massive star research?
+
+### Sky Brightness at Kitt Peak National Observatory
+While working with Phil Massey at Lowell observatory, we measured the night sky brightness of Kitt Peak National Observatory near Tucson, AZ. We then compared our 2010 data to measurements taken by Phil in 1990 and 2000. Remarkably, we found that the brightness of the Kitt Peak night sky at zenith is just as dark as it was 20 years ago. This suggests that the lighting ordinances established in Tucson and Pima County in the early 2000s have been incredibly effective. Our efforts were highlighted by the [Tucson newspaper](https://tucson.com/news/local/articleb1fb01f4-c064-5247-a9e9-48abdef02b75.html) as well as numerous other sources such as [Sky & Telescope](http://www.skyandtelescope.com/astronomy-news/darkness-still-reigns-over-kitt-peak/) and a [press release by NOAO](https://noirlab.edu/public/news/noao1004/).
+
+### Azimuthal brightness variations in Saturn's rings
+During my junior and senior years at Wellesley College I worked with Professor Richard French analyzing Saturn Cassini data. I spent the first semester investigating the azimuthal asymmetries in Saturn’s A and B rings using VIMS data. These asymmetries are caused by ring particle formations called wakes. Wakes are created by the inherent desire of particles to bind together through gravitational forces. However, these particles are within the Roche limit, meaning they can’t bond together and form a moon because of tidal disruptions from Saturn’s gravitational pull. However, the tidal disruptions do cause them to form small streams called wakes. These streams are tilted 20 degrees with respect to Saturn’s ring plane. Thus, depending on the tilt of Saturn’s rings and your viewing angle, it is either easier to see through the rings and the rings appear darker (trailing quadrant) or it is harder to see through the rings and thus the rings reflect more light back to you and appear lighter (leading quadrant). I then spent the second semester looking at ring occultation data and measuring the location of different prominent ring features (such as the Cassini and Encke divisions). This data can then be used to help determine the precise pole solution for Saturn.
+
+![Saturn](/assets/img/SaturnRings.jpg)
+
+_Notice the brightening (in the leading quadrant) and darkening (in the trailing quadrant). (French et al., 2007)_
+
+### Koronis Family Asteroids
+As a sophomore at Wellesley College I participated in the Sophomore Early Research Program. This research paired me with astronomy Professor Steve Slivan and his work on Koronis Family asteroids. During my first year of astronomy research, I learned how to use the 24-inch telescope at Wellesley's Whitin Observatory to collect and reduce CCD images. I then used these images to determine the periods and _H_ magnitudes for three different Koronis Family members: (3032) Evans, (1443) Ruppina, and (2268) Szmytowna. The light curve for (2268) Szmytowna phased to the appropriate period is shown below. At the end of the year, Professor Slivan and I published a paper in the Minor Planet Bulletin detailing our findings.
+
+![Szmytowna](/assets/img/SzmytownaFinal.jpg)
