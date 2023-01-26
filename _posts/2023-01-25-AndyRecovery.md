@@ -12,7 +12,9 @@ The shelter had done a few x-rays and we brought those to our local vet. She rea
 
 ## Why did we decide to go through with amputation?
 1) Cats (and dogs!) are surprisingly adaptable to a limb removal, especially when it is done early in their lives. Since Andy was a little less than a year old at the time, it was an ideal time to transition him to his new tri-pawed lifestyle.
+
 2) Rebuilding the leg joint would be expensive, time-consuming, painful for Andy, *and* it only had a 60-70% chance of working. For these reasons, we barely even considered it.
+
 3) We did consider simply leaving his leg alone since it wasn't painful on a regular basis. But, because it essentially had no chance of healing properly, it would be susceptible to arthritis when he got into his adult years and would likely need to be amputated then. So, it seemed better to do the amputation now when he was young and healthy. 
 
 ## The Recovery Process
@@ -28,15 +30,15 @@ We additionally opted to keep Andy in a large dog crate for the first 2.5 weeks 
 ![crate](/assets/img/AndyCrate.jpg)
 
 ### Stitches and staples
-Andy had both internal stitches that dissolved over time as well as large external staples. The staples were removed after 12 days (our vet told us this could be done 12-14 days after surgery) and we continued to restrict his movement and keep his cone one for another 6 days after his staples were removed. In other words, Andy was confined to the crate for the first 2.5 weeks unless we were able to supervise him. Towards the end of the 2.5 weeks, he was more comfortable getting around with his cone on and would happily sit and watch the birds without trying to lick his wound.
+Andy had both internal stitches that dissolved over time as well as large external staples. The staples were removed after 12 days (our vet told us this could be done 12-14 days after surgery) and we continued to restrict his movement and keep his cone on for another 6 days after his staples were removed. In other words, Andy was confined to the crate for the first 2.5 weeks unless we were able to supervise him. Towards the end of the 2.5 weeks, he was more comfortable getting around with his cone on and would happily sit and watch the birds without trying to lick his wound.
 
 ![birds](/assets/img/AndyBirds.jpg)
 
 ### Litter Box
-Going into the surgery, we were concerned about Andy's ability to use the litter box or walk right after, but this turned out generally not to be an issue. He went to the bathroom just a few hours after returning home (so, around 6 hours after his surgery) and was able to balance. We were already usingn [Oko cat litter](https://www.chewy.com/okocat-original-premium-wood-clumping/dp/321573) and it was helpful to not be using a small-grained or dusty litter that could get into his incision site. We also switched out his litter box to one with much lower sides so it was easier for him to walk into. One issue we did run into on a somewhat regular basis was that he couldn't see his pee or poop once he had gone to the bathroom because of the cone. This meant that he often stepped in it before exiting the litter box. He then couldn't clean himself (his paws, or behind) due to the cone. So, for the 2.5 weeks with the cone, we would frequently wipe him down with a damp towel to keep him clean.
+Going into the surgery, we were concerned about Andy's ability to use the litter box or walk right after, but this turned out generally not to be an issue. He went to the bathroom just a few hours after returning home (so, around 6 hours after his surgery) and was able to balance. We were already using [Oko cat litter](https://www.chewy.com/okocat-original-premium-wood-clumping/dp/321573) and it was helpful to not be using a small-grained or dusty litter that could get into his incision site. We also switched out his litter box to one with much lower sides so it was easier for him to walk into. One issue we did run into on a somewhat regular basis was that he couldn't see his pee or poop once he had gone to the bathroom because of the cone. This meant that he often stepped in it before exiting the litter box. He then couldn't clean himself (his paws, or behind) due to the cone. So, for the 2.5 weeks with the cone, we would frequently wipe him down with a damp towel to keep him clean.
 
 ### Movement
-Overall, Andy's movement was considerably better than I expected, given that he had just lost a leg. He was a little shakey for the first couple of days, but he never had any issues moving around. He still doesn't have full mobility, but he has no issues running full-speed through the house to catch a toy. He also still prefers to use the small [animal stairs](https://www.chewy.com/petsafe-cozyup-foldable-cat-dog/dp/53687) to get onto our bed, or into his cat tree. He also does not jump higher than the couch.
+Overall, Andy's movement was considerably better than I expected, given that he had just lost a leg. He was a little shaky for the first couple of days, but he never had any issues moving around. He still doesn't have full mobility, but he has no issues running full-speed through the house to catch a toy. He also still prefers to use the small [animal stairs](https://www.chewy.com/petsafe-cozyup-foldable-cat-dog/dp/53687) to get onto our bed, or into his cat tree. He also does not jump higher than the couch.
 
 ### Pain medication
 We gave him regular pain medication for the first 10 days as instructed by our vet along with a few other medications. He never showed any signs of being in pain, which was wonderful!
