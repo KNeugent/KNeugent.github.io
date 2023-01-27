@@ -6,7 +6,7 @@ tags: [life events, animals]
 ---
 
 ## A little backstory about Andy ...
-Garrett and I adopted Andy from [Look What The Cat Brought In](https://lookwhatthecatbroughtin.org) in Colorado Springs in late August, 2022. While he was a healthy kitty, he clearly had issues with his back right leg. He would sometimes put weight on it, but he couldn't straighten it fully without pain. Because of this, he also didn't jump higher than the couch. We adopted Andy knowing that we'd need to spend some time (and money) helping him heal and be as happy and pain-free a cat as possible.
+Garrett and I adopted Andy from [Look What The Cat Brought In](https://lookwhatthecatbroughtin.org) in Colorado Springs in late August, 2022. While he was a healthy kitty, he clearly had issues with his back right leg. He would sometimes put weight on it, but he couldn't straighten it fully without pain. Because of this, he also didn't jump higher than the couch. We adopted Andy knowing that we'd need to spend some time (and money) helping him heal and be as happy and pain-free as he could be.
 
 The shelter had done a few x-rays and we brought those to our local vet. She reached out to a cat orthopedic specialist and they determined that his leg had been broken across his "knee" joint and wasn't able to heal properly. Our options were to basically re-build the joint and then endure 4-6 months of kitty physical therapy, remove his leg, or leave it be knowing that it would never fully heal and would always cause him pain. After talking with our vet and doing a bunch of research, we decided to amputate his back right leg.
 
