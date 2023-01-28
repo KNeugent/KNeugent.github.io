@@ -58,7 +58,7 @@ _(left) Combined RSG+B star spectrum showing both the B star's upper Balmer line
 
 ## Luminous Blue Variables
 
-(My feelings about LBVs)[https://youtu.be/bvWRMAU6V-c]
+My feelings about LBVs can be summarized by [this video](https://youtu.be/bvWRMAU6V-c).
 
 ## Massive Star End States
 ### What's next? (for both me and the stars)
