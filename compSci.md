@@ -7,11 +7,11 @@ While astronomy research has been my main focus since 2015, I have both BA and M
 
 # Astronomy programming projects
 
-Skils: `Python` `pandas` `NumPy` `scikit-learn` `matplotlib` `jupyter notebooks`
+Skills: `Python` `pandas` `NumPy` `scikit-learn` `matplotlib` `jupyter notebooks`
 
 ## k-Nearest Neighbor Classifier for Binary Stars
 
-As part of my PhD thesis at the University of Washington, I observationally constrained the binary fraction of red supergiants in the Local Group galaxies of M31, M33, and the Magellanic Clouds. While I discuss the science motivation more [here](https://kathrynneugent.com/astronomy/), one of my favorite parts of this research was building a k-NN classifier using Python's `sklearn` to photometrically differentiate between the single and binary red supergiants. The code and a more detailed explanation can be [found on github](https://github.com/KNeugent/kNN-BinaryStars).
+As part of my PhD thesis at the University of Washington, I observationally constrained the binary fraction of red supergiants in the Local Group galaxies of M31, M33, and the Magellanic Clouds. While I discuss the science motivation more [here](https://kathrynneugent.com/astronomy/), one of my favorite parts of this research was building a k-NN classifier to photometrically differentiate between the single and binary red supergiants. The code and a more detailed explanation can be [found on github](https://github.com/KNeugent/kNN-BinaryStars).
 
 ## Monte Carlo Simulation for Binaries
 
