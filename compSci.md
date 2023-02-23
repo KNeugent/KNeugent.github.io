@@ -11,11 +11,11 @@ Skills: `Python` `pandas` `NumPy` `scikit-learn` `matplotlib` `jupyter notebooks
 
 ## k-Nearest Neighbor Classifier for Binary Stars
 
-As part of my PhD thesis at the University of Washington, I observationally constrained the binary fraction of red supergiants in the Local Group galaxies of M31, M33, and the Magellanic Clouds. While I discuss the science motivation more [here](https://kathrynneugent.com/astronomy/), one of my favorite parts of this research was building a k-NN classifier to photometrically differentiate between the single and binary red supergiants. The code and a more detailed explanation can be [found on github](https://github.com/KNeugent/kNN-BinaryStars).
+As part of my PhD thesis at the University of Washington, I observationally constrained the binary fraction of red supergiants in the Local Group galaxies of M31, M33, and the Magellanic Clouds. While I discuss the science motivation more [here](https://kathrynneugent.com/astronomy/), one of my favorite parts of this research was building a k-NN classifier to differentiate the single and binary red supergiants from their colors. The code and a more detailed explanation can be [found on github](https://github.com/KNeugent/kNN-BinaryStars).
 
 ## Monte Carlo Simulation for Binaries
 
-When observing a binary star system in another galaxy, it can be difficult to determine if the two stars are gravitationally bound or simply just line-of-sight systems. I wrote a Monte Carlo simulation that takes into account the local stellar population density to determine the percentage chance that two astronomical objects are line-of-sight binaries as opposed to gravitationally bound. The code and further information can be [found on github](https://github.com/KNeugent/LineOfSightBinaries).
+When observing a binary star system in another galaxy, it can be difficult to determine if the two stars are gravitationally bound or simply just line-of-sight systems. I wrote a Monte Carlo simulation that takes into account the local stellar population density in order to determine the percentage chance that two astronomical objects are line-of-sight binaries as opposed to gravitationally bound. The code and further information can be [found on github](https://github.com/KNeugent/LineOfSightBinaries).
 
 ## Combining Stellar Spectra
 
