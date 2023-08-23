@@ -3,7 +3,7 @@ layout: page
 title: Computer Science
 ---
 
-While astronomy research has been my main focus since 2015, I have both BA and MS degrees in computer science and spent a few years working in the field of cyber security before going back to school for astronomy. Here I briefly summarize a few of my more recent astronomy-focused programming projects as well as an overview of my experience working in cyber security.
+I recently started as a senior data scientist at CableLabs and look forward to expanding my programming skill-set (and updating this page) soon. In the meantime, here I briefly summarize a few of my more recent astronomy-focused programming projects as well as an overview of my experience working in cyber security.
 
 # Astronomy programming projects
 
