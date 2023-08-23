@@ -3,10 +3,12 @@ layout: page
 title: Curriculum Vitae
 ---
 
-last updated: January 22, 2023
+While my academic CV is less important now that I've transitioned into industry, here it is for posterity!
 
-[pdf of CV and Publications](/assets/pdf/KNeugentCVandPubs.pdf) \| [ads list of papers](https://ui.adsabs.harvard.edu/public-libraries/DRyvin-XSxGUqpQ8ZPbG2Q) \| [YouTube library of my talks](https://youtube.com/playlist?list=PLT3JlNWNE14jK05MRp0qDyxsOmLLYuel5)
+last updated: July, 2023
 
-If the iframe below doesn't render properly, please click on the link above to view my CV and Publications.
+[pdf of CV](/assets/pdf/KNeugentCV.pdf) \| [ads list of papers](https://ui.adsabs.harvard.edu/public-libraries/DRyvin-XSxGUqpQ8ZPbG2Q) \| [YouTube library of my talks](https://youtube.com/playlist?list=PLT3JlNWNE14jK05MRp0qDyxsOmLLYuel5)
 
-<iframe width="100%" height="1000" src="/assets/pdf/KNeugentCVandPubs.pdf">
+If the iframe below doesn't render properly, please click on the link above to view my CV.
+
+<iframe width="100%" height="1000" src="/assets/pdf/KNeugentCV.pdf">
