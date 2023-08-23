@@ -3,7 +3,7 @@ layout: page
 title: Astronomy
 ---
 
-My astronomy research over the past decade+ has focused on studying massive stars across the HR Diagram from hot OB and Wolf-Rayet stars, to cool yellow and red supergiants. During my years working at Lowell Observatory, as a PhD studentat the University of Washington, and later as a postdoc, I regularly observed on telescopes in Chile, Hawaii, and Arizona to better constrain the numbers and types of massive stars in the Local Group galaxies M31, M33, and the Magellanic Clouds. My postdoctoral research focused on using these massive stars in binary systems to determine how they might someday merge to form gravitational wave events detectable by the Laser Interferometer Gravitational-wave Observatory (LIGO).
+My astronomy research over the past decade+ has focused on studying massive stars across the HR Diagram from hot OB and Wolf-Rayet stars, to cool yellow and red supergiants. During my years working at Lowell Observatory, as a PhD student at the University of Washington, and later as a postdoc, I regularly observed on telescopes in Chile, Hawaii, and Arizona to better constrain the numbers and types of massive stars in the Local Group galaxies M31, M33, and the Magellanic Clouds. My postdoctoral research focused on using these massive stars in binary systems to determine how they might someday merge to form gravitational wave events detectable by the Laser Interferometer Gravitational-wave Observatory (LIGO).
 
 ![Magellan](/assets/img/Magellan.jpg){: .mx-auto.d-block :}
 
