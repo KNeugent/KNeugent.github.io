@@ -9,7 +9,6 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 | [![Bear Lake](/assets/img/BearLake.jpeg)](/assets/img/BearLake.jpeg) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpeg)](/assets/img/BierstadtLake.jpeg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.jpeg)](/assets/img/BlackLake.jpeg) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
-| <img src="/assets/img/BearLake.jpeg" alt="Bear Lake" width="300" title="Bear Lake"><span style="font-weight:normal">Bear Lake</span> | <img src="/assets/img/BierstadtLake.jpeg" alt="Bierstadt Lake" with="300" title="Bierstadt Lake"><span style="font-weight:normal">Bierstadt Lake</span> | <img src="/assets/img/BlackLake.jpeg" alt="Black Lake" width="300" title="Black Lake"><span style="font-weight:normal">Black Lake</span> |
 | Blue Lake (Glacier Gorge) | Bluebird Lake | Box Lake |
 | Castle Lake | Chipmunk Lake | Crystal Lake |
 | Cub Lake | Dream Lake | Eagle Lake |
