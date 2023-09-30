@@ -7,7 +7,7 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 # Lakes I've Visited
 
-| [Bear Lake](/assets/img/BearLake.jpeg) <span style="font-weight:normal">Bear Lake</span> | [Bierstadt Lake](/assets/img/BierstadtLake.jpeg) <span style="font-weight:normal">Bierstadt Lake</span> | [Black Lake](/assets/img/BlackLake.jpeg) <span style="font-weight:normal">Black Lake</span> |
+| ![Bear Lake](/assets/img/BearLake.jpeg) <span style="font-weight:normal">Bear Lake</span> | ![Bierstadt Lake](/assets/img/BierstadtLake.jpeg) <span style="font-weight:normal">Bierstadt Lake</span> | ![Black Lake](/assets/img/BlackLake.jpeg) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
 | Blue Lake (Glacier Gorge) | Bluebird Lake | Box Lake |
 | Castle Lake | Chipmunk Lake | Crystal Lake |
