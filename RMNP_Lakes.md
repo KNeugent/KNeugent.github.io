@@ -7,7 +7,7 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 # Lakes I've Visited
 
-|~ |~ |~ |
+| <span style="font-weight:normal">test</span> |~ |~ |
 | :---: | :---: | :---: |
 | Bear Lake | Bierstadt Lake | Black Lake |
 | Blue Lake (Glacier Gorge) | Bluebird Lake | Box Lake |
