@@ -22,8 +22,9 @@ author: Kathryn Neugent
 navbar-links:
   Blog: "blog"
   CV: "cv"
+  RMNP Lakes: "RMNP_Lakes
   Astronomy: "astronomy"
-  Computer Science: "compSci"
+  Comp Sci: "comp_sci"
 
 ################
 # --- Logo --- #
