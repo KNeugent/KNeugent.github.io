@@ -10,14 +10,16 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 # Lakes Remaining
 This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. A few of the lakes are _right_ outside park boundaries, but I've still included them here.
 
-## Bear Lake Area
+### Bear Lake Area
+---
 | Andrews Tarn | Black Pool | Embryo Lake |
 | Hourglass Lake | "Italy Lake" | Loomis Lake |
 | Marigold Lake | Marigold Pond | "Pool of Jade" |
 | "Primrose Pond" | Round Pond | Sprague Lake | 
 | "Sprague Tarn" | | |
+---
 
-## Wild Basin
+### Wild Basin
 Chickadee Pond
 Cony Lake
 Copeland Lake
@@ -37,7 +39,7 @@ Lark Pond
 Twin Lake (Lower)
 Twin Lake (upper)
 
-## Mummy Range
+### Mummy Range
 Beaver Ponds
 Bighorn Lake
 Cirque Lake
@@ -62,7 +64,7 @@ Spectacle Lake (lower)
 Spectacle Lake (upper)
 "Whiskey Lake"
 
-## Never Summer Range
+### Never Summer Range
 Blue Lake (Never Summer)
 Bowen Lake
 Lake Agnes
@@ -74,7 +76,7 @@ Pinnacle Pool
 Ruby Lake
 Snow Lake
 
-## North / East Inlet
+### North / East Inlet
 Bench Lake
 Big Pool
 Chickaree Lake
@@ -84,7 +86,7 @@ Pettingell Lake
 Ptarmigan Lake
 Ten Lake park
 
-## Central
+### Central
 Arrowhead Lake
 Azure Lake
 Doughnut Lake
@@ -106,7 +108,7 @@ Snowdrift Lake
 Timber Lake
 "Wonderland Lake"
 
-## Other
+### Other
 Adams Lake
 Chasm Lake
 Lake Estes
