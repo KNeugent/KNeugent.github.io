@@ -7,6 +7,28 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 # Lakes I've Visited
 
+|- |- |- |
+---
+| Bear Lake | Bierstadt Lake | Black Lake |
+| Blue Lake (Glacier Gorge) | Bluebird Lake | Box Lake |
+| Castle Lake | Chipmunk Lake | Crystal Lake |
+| Cub Lake | Dream Lake | Eagle Lake |
+| Emerald Lake | Fern Lake | Fifth Lake |
+| Finch Lake | Fourth Lake | Frozen Lake |
+| Gem Lake | Green Lake | Haynatch Lakes |
+| Jewel Lake | Lake Haiyaha | Lake Helene |
+| Lake Nanita | Lake Nokoni | Lake of Glass |
+| Lake Verna | Lawn Lake | Lion Lake #1 |
+| Lion Lake #2 | Little Crystal Lake | Lone Pine Lake |
+| Mills Lake | Nymph Lake | Odessa Lake |
+| Ouzel Lake | Pear Lake | Pipit Lake |
+| Poudre Lake | Ptarmigan Tarns | Sandbeach Lake |
+| Shelf Lake | Sky Pond | Snowbank Lake |
+| Solitude Lake | Spirit Lake | Spruce Lake |
+| The Loch | The Pool | Thunder Lake |
+| Tourmaline Lake | Two Rivers Lake | Ypsilon Lake |
+---
+
 # Lakes Remaining
 This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. A few of the lakes are _right_ outside park boundaries, but I've still included them here.
 
