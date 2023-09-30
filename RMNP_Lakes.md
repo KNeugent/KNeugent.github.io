@@ -40,6 +40,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | "Sprague Tarn" | | |
 
 ### Wild Basin
+
 | <span style="font-weight:normal">Chickadee Pond</span> | <span style="font-weight:normal">Cony Lake</span> |<span style="font-weight:normal">Copeland Lake</span> |
 | :---: | :---: | :---: |
 | Falcon Lake | Fan Lake | Frigid Lake |
@@ -49,6 +50,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Lark Pond | Twin Lake (Lower) | Twin Lake (upper) |
 
 ### Mummy Range
+
 | <span style="font-weight:normal">Beaver Ponds</span> | <span style="font-weight:normal">Bighorn Lake</span> |<span style="font-weight:normal">Cirque Lake</span> |
 | :---: | :---: | :---: |
 | Emmaline Lake | Fay Lake (lower) | Fay Lake (middle) |
@@ -60,6 +62,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Spectacle Lake (upper) | "Whiskey Lake" | |
 
 ### Never Summer Range
+
 | <span style="font-weight:normal">Blue Lake (Never Summer)</span> | <span style="font-weight:normal">Bowen Lake</span> |<span style="font-weight:normal">Lake Agnes</span> |
 | :---: | :---: | :---: |
 | Lake of the Clouds | Michigan Lake (lower) | Michigan Lake (middle) |
@@ -67,12 +70,14 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Snow Lake | | |
 
 ### North / East Inlet
+
 | <span style="font-weight:normal">Bench Lake</span> | <span style="font-weight:normal">Big Pool</span> |<span style="font-weight:normal">Chickaree Lake</span> |
 | :---: | :---: | :---: |
 | Lake Catherine | Lake Solitude (N. Inlet) | Pettingell Lake |
 | Ptarmigan Lake | Ten Lake park | |
 
 ### Central
+
 | <span style="font-weight:normal">Arrowhead Lake</span> | <span style="font-weight:normal">Azure Lake</span> |<span style="font-weight:normal">Doughnut Lake</span> |
 | :---: | :---: | :---: |
 | Forest Lake | Hayden Lake | Highest Lake |
@@ -83,6 +88,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Timber Lake | "Wonderland Lake" | |
 
 ### Other
+
 | <span style="font-weight:normal">Adams Lake</span> | <span style="font-weight:normal">Chasm Lake</span> |<span style="font-weight:normal">Lake Estes</span> |
 | :---: | :---: | :---: |
 | Lake Irene | Lily Lake | Peacock Pool |
