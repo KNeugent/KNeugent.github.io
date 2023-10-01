@@ -12,12 +12,12 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
 | [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
-| Placeholder | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake |
-| [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake | [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake |
-| [![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake | [![Fern Lake](/assets/img/FernLake.JPG)](/assets/img/FernLake.JPG) Fern Lake | [![Fifth Lake](/assets/img/FifthLake.jpg)](/assets/img/FifthLake.jpg) Fifth Lake |
-| [![Finch Lake](/assets/img/FinchLake.JPG)](/assets/img/FinchLake.JPG) Finch Lake | [![Fourth Lake](/assets/img/FourthLake.JPG)](/assets/img/FourthLake.JPG) Fourth Lake | [![Frozen Lake](/assets/img/FrozenLake.JPG)](/assets/img/FrozenLake.JPG) Frozen Lake |
-| [![Gem Lake](/assets/img/GemLake.JPG)](/assets/img/GemLake.JPG) Gem Lake | [![Green Lake](/assets/img/GreenLake.JPG)](/assets/img/GreenLake.JPG) Green Lake | [![Haynach Lake](/assets/img/HaynachLakes.JPG)](/assets/img/HaynachLakes.JPG) Haynach Lakes |
-| [![Jewel Lake](/assets/img/JewelLake.jpeg)](/assets/img/JewelLake.jpeg) Jewel Lake | [![Lake Haiyaha](/assets/img/LakeHaiyaha.JPG)](/assets/img/LakeHaiyaha.JPG) Lake Haiyaha | [![Lake Helene](/assets/img/LakeHelene.JPG)](/assets/img/LakeHelene.JPG) Lake Helene |
+| [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake | [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake |
+| [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake | [![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake |
+| [![Fern Lake](/assets/img/FernLake.JPG)](/assets/img/FernLake.JPG) Fern Lake | [![Fifth Lake](/assets/img/FifthLake.jpg)](/assets/img/FifthLake.jpg) Fifth Lake | [![Finch Lake](/assets/img/FinchLake.JPG)](/assets/img/FinchLake.JPG) Finch Lake |
+| [![Fourth Lake](/assets/img/FourthLake.JPG)](/assets/img/FourthLake.JPG) Fourth Lake | [![Frozen Lake](/assets/img/FrozenLake.JPG)](/assets/img/FrozenLake.JPG) Frozen Lake | [![Gem Lake](/assets/img/GemLake.JPG)](/assets/img/GemLake.JPG) Gem Lake |
+| [![Green Lake](/assets/img/GreenLake.JPG)](/assets/img/GreenLake.JPG) Green Lake | [![Haynach Lake](/assets/img/HaynachLakes.JPG)](/assets/img/HaynachLakes.JPG) Haynach Lakes | [![Jewel Lake](/assets/img/JewelLake.jpeg)](/assets/img/JewelLake.jpeg) Jewel Lake |
+| [![Lark Pond](/assets/img/LarkPond.JPG)](/assets/img/LarkPond.JPG) Lark Pond | [![Lake Haiyaha](/assets/img/LakeHaiyaha.JPG)](/assets/img/LakeHaiyaha.JPG) Lake Haiyaha | [![Lake Helene](/assets/img/LakeHelene.JPG)](/assets/img/LakeHelene.JPG) Lake Helene |
 | [![Lake Nanita](/assets/img/LakeNanita.JPG)](/assets/img/LakeNanita.JPG) Lake Nanita | [![Lake Nokoni](/assets/img/LakeNokoni.JPG)](/assets/img/LakeNokoni.JPG) Lake Nokoni | [![Lake of Glass](/assets/img/LakeOfGlass.jpg)](/assets/img/LakeOfGlass.jpg) Lake of Glass |
 | [![Lake Verna](/assets/img/LakeVerna.JPG)](/assets/img/LakeVerna.JPG) Lake Verna | [![Lawn Lake](/assets/img/LawnLake.JPG)](/assets/img/LawnLake.JPG) Lawn Lake | [![Lion Lake 1](/assets/img/LionLake1.JPG)](/assets/img/LionLake1.JPG) Lion Lake #1 |
 | [![Lion Lake 2](/assets/img/LionLake2.JPG)](/assets/img/LionLake2.JPG) Lion Lake #2 | [![Little Crystal Lake](/assets/img/LittleCrystalLake.JPG)](/assets/img/LittleCrystalLake.JPG) Little Crystal Lake | [![Lone Pine Lake](/assets/img/LonePineLake.jpg)](/assets/img/LonePineLake.jpg) Lone Pine Lake |
@@ -42,14 +42,13 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 
 ### Wild Basin
 
-| <span style="font-weight:normal">Chickadee Pond</span> | <span style="font-weight:normal">Castle Lake</span> | <span style="font-weight:normal">Cony Lake</span> |
+|  <span style="font-weight:normal">Castle Lake</span> | <span style="font-weight:normal">Cony Lake</span> | <span style="font-weight:normal">Copeland Lake</span> |
 | :---: | :---: | :---: |
-| Copeland Lake | Falcon Lake | Fan Lake | 
+| Falcon Lake | Fan Lake | Lake Powell |
 | Frigid Lake | Hutcheson Lake (lower) | Hutcheson Lake (middle) | 
 | Hutcheson Lake (upper) | Indigo Pond | Isolation Lake | 
 | Junco Lake | Keplinger Lake | Lake of Many Winds | 
-| Lake Powell | Lark Pond | Twin Lake (Lower) |
-| Twin Lake (upper) | | |
+| Twin Lake (Lower) | Twin Lake (upper) | |
 
 ### Mummy Range
 
