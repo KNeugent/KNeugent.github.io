@@ -7,11 +7,11 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 # Lakes I've Visited
 
-| [![Bear Lake](/assets/img/BearLake.jpeg)](/assets/img/BearLake.jpeg) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpeg)](/assets/img/BierstadtLake.jpeg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.jpeg)](/assets/img/BlackLake.jpeg) <span style="font-weight:normal">Black Lake</span> |
+| [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
-| Blue Lake (Glacier Gorge) | Bluebird Lake | Box Lake |
-| Castle Lake | Chipmunk Lake | Crystal Lake |
-| Cub Lake | Dream Lake | Eagle Lake |
+| [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
+| [![Castle Lake](/assets/img/CastleLake.JPG)](/assets/img/CastleLake.JPG) Castle Lake | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake |
+| [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake | [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake |
 | Emerald Lake | Fern Lake | Fifth Lake |
 | Finch Lake | Fourth Lake | Frozen Lake |
 | Gem Lake | Green Lake | Haynatch Lakes |
