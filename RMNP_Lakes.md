@@ -12,20 +12,20 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
 | [![Castle Lake](/assets/img/CastleLake.JPG)](/assets/img/CastleLake.JPG) Castle Lake | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake |
 | [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake | [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake |
-| Emerald Lake | Fern Lake | Fifth Lake |
-| Finch Lake | Fourth Lake | Frozen Lake |
-| Gem Lake | Green Lake | Haynatch Lakes |
-| Jewel Lake | Lake Haiyaha | Lake Helene |
-| Lake Nanita | Lake Nokoni | Lake of Glass |
-| Lake Verna | Lawn Lake | Lion Lake #1 |
-| Lion Lake #2 | Little Crystal Lake | Lone Pine Lake |
-| Mills Lake | Nymph Lake | Odessa Lake |
-| Ouzel Lake | Pear Lake | Pipit Lake |
-| Poudre Lake | Ptarmigan Tarns | Sandbeach Lake |
-| Shelf Lake | Sky Pond | Snowbank Lake |
-| Solitude Lake | Spirit Lake | Spruce Lake |
-| The Loch | The Pool | Thunder Lake |
-| Tourmaline Lake | Two Rivers Lake | Ypsilon Lake |
+| [![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake | [![Fern Lake](/assets/img/FernLake.JPG)](/assets/img/FernLake.JPG) Fern Lake | [![Fifth Lake](/assets/img/FifthLake.jpg)](/assets/img/FifthLake.jpg) Fifth Lake |
+| [![Finch Lake](/assets/img/FinchLake.JPG)](/assets/img/FinchLake.JPG) Finch Lake | [![Fourth Lake](/assets/img/FourthLake.JPG)](/assets/img/FourthLake.JPG) Fourth Lake | [![Frozen Lake](/assets/img/FrozenLake.JPG)](/assets/img/FrozenLake.JPG) Frozen Lake |
+| [![Gem Lake](/assets/img/GemLake.JPG)](/assets/img/GemLake.JPG) Gem Lake | [![Green Lake](/assets/img/GreenLake.JPG)](/assets/img/GreenLake.JPG) Green Lake | [![Haynach Lake](/assets/img/HaynachLake.JPG)](/assets/img/HaynachLake.JPG) Haynach Lakes |
+| [![Jewel Lake](/assets/img/JewelLake.jpeg)](/assets/img/JewelLake.jpeg) Jewel Lake | [![Lake Haiyaha](/assets/img/LakeHaiyaha.JPG)](/assets/img/LakeHaiyaha.JPG) Lake Haiyaha | [![Lake Helene](/assets/img/LakeHelene.JPG)](/assets/img/LakeHelene.JPG) Lake Helene |
+| [![Lake Nanita](/assets/img/LakeNanita.JPG)](/assets/img/LakeNanita.JPG) Lake Nanita | [![Lake Nokoni](/assets/img/LakeNokoni.JPG)](/assets/img/LakeNokoni.JPG) Lake Nokoni | [![Lake of Glass](/assets/img/LakeOfGlass.jpg)](/assets/img/LakeOfGlass.jpg) Lake of Glass |
+| [![Lake Verna](/assets/img/LakeVerna.JPG)](/assets/img/LakeVerna.JPG) Lake Verna | [![Lawn Lake](/assets/img/LawnLake.JPG)](/assets/img/LawnLake.JPG) Lawn Lake | [![Lion Lake 1](/assets/img/LionLake1.JPG)](/assets/img/LionLake1.JPG) Lion Lake #1 |
+| [![Lion Lake 2](/assets/img/LionLake2.JPG)](/assets/img/LionLake2.JPG) Lion Lake #2 | [![Little Crystal Lake](/assets/img/LittleCrystalLake.JPG)](/assets/img/LittleCrystalLake.JPG) Little Crystal Lake | [![Lone Pine Lake](/assets/img/LonePineLake.jpg)](/assets/img/LonePineLake.jpg) Lone Pine Lake |
+| [![Mills Lake](/assets/img/MillsLake.jpg)](/assets/img/MillsLake.jpg) Mills Lake | [![Nymph Lake](/assets/img/NymphLake.JPG)](/assets/img/NymphLake.JPG) Nymph Lake | [![Odessa Lake](/assets/img/OdessaLake.jpeg)](/assets/img/OdessaLake.jpeg) Odessa Lake |
+| [![Ouzel Lake](/assets/img/OuzelLake.JPG)](/assets/img/OuzelLake.JPG) Ouzel Lake | [![Pear Lake](/assets/img/PearLake.JPG)](/assets/img/PearLake.JPG) Pear Lake | [![Pipit Lake](/assets/img/PipitLake.JPG)](/assets/img/PipitLake.JPG) Pipit Lake |
+| [![Poudre Lake](/assets/img/PoudreLake.JPG)](/assets/img/PoudreLake.JPG) Poudre Lake | [![Ptarmigan Tarn](/assets/img/PtarmiganTarn.JPG)](/assets/img/PtarmiganTarn.JPG) Ptarmigan Tarns | [![Sandbeach Lake](/assets/img/SandbeachLake.JPG)](/assets/img/SandbeachLake.JPG) Sandbeach Lake |
+| [![Shelf Lake](/assets/img/ShelfLake.JPG)](/assets/img/ShelfLake.JPG) Shelf Lake | [![Sky Pond](/assets/img/SkyPond.JPG)](/assets/img/SkyPond.JPG) Sky Pond | [![Snowbank Lake](/assets/img/SnowbankLake.JPG)](/assets/img/SnowbankLake.JPG) Snowbank Lake |
+| [![Solitude Lake](/assets/img/SolitudeLake.JPG)](/assets/img/SolitudeLake.JPG) Solitude Lake | [![Spirit Lake](/assets/img/SpiritLake.JPG)](/assets/img/SpiritLake.JPG) Spirit Lake | [![Spruce Lake](/assets/img/SpruceLake.JPG)](/assets/img/SpruceLake.JPG) Spruce Lake |
+| [![The Loch](/assets/img/TheLoch.JPG)](/assets/img/TheLoch.JPG) The Loch | [![The Pool](/assets/img/ThePool.JPG)](/assets/img/ThePool.JPG) The Pool | [![Thunder Lake](/assets/img/ThunderLake.JPG)](/assets/img/ThunderLake.JPG) Thunder Lake |
+| [![Tourmaline Lake](/assets/img/TourmalineLake.JPG)](/assets/img/TourmalineLake.JPG) Tourmaline Lake | [![Two Rivers Lake](/assets/img/TwoRiversLake.JPG)](/assets/img/TwoRiversLake.JPG) Two Rivers Lake | [![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) Ypsilon Lake |
 
 # Lakes Remaining
 This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. A few of the lakes are _right_ outside park boundaries, but I've still included them here.
