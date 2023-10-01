@@ -3,14 +3,14 @@ layout: page
 title: RMNP Lakes
 ---
 
-There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are both pictures of the lakes I've visited so far, as well as the ones left on my list.
+There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, my list of remaining lakes, as well as a google map.
 
 # Lakes I've Visited
 
 | [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
 | [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
-| [![Castle Lake](/assets/img/CastleLake.JPG)](/assets/img/CastleLake.JPG) Castle Lake | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake |
+| Placeholder | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake |
 | [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake | [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake |
 | [![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake | [![Fern Lake](/assets/img/FernLake.JPG)](/assets/img/FernLake.JPG) Fern Lake | [![Fifth Lake](/assets/img/FifthLake.jpg)](/assets/img/FifthLake.jpg) Fifth Lake |
 | [![Finch Lake](/assets/img/FinchLake.JPG)](/assets/img/FinchLake.JPG) Finch Lake | [![Fourth Lake](/assets/img/FourthLake.JPG)](/assets/img/FourthLake.JPG) Fourth Lake | [![Frozen Lake](/assets/img/FrozenLake.JPG)](/assets/img/FrozenLake.JPG) Frozen Lake |
@@ -34,47 +34,47 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 
 | <span style="font-weight:normal">Andrews Tarn</span> | <span style="font-weight:normal">Black Pool</span> |<span style="font-weight:normal">Embryo Lake</span> |
 | :---: | :---: | :---: |
-| Hourglass Lake | "Italy Lake" | Loomis Lake |
-| Marigold Lake | Marigold Pond | "Pool of Jade" |
-| "Primrose Pond" | Round Pond | Sprague Lake |
-| "Sprague Tarn" | | |
+| "Italy Lake" | Loomis Lake | Marigold Lake |
+| Marigold Pond | "Pool of Jade" | "Primrose Pond" |
+| Round Pond | Sprague Lake | |
 
 ### Wild Basin
 
-| <span style="font-weight:normal">Chickadee Pond</span> | <span style="font-weight:normal">Cony Lake</span> |<span style="font-weight:normal">Copeland Lake</span> |
+| <span style="font-weight:normal">Chickadee Pond</span> | <span style="font-weight:normal">Castle Lake</span> | <span style="font-weight:normal">Cony Lake</span> |
 | :---: | :---: | :---: |
-| Falcon Lake | Fan Lake | Frigid Lake |
-| Hutcheson Lake (lower) | Hutcheson Lake (middle) | Hutcheson Lake (upper) |
-| Indigo Pond | Isolation Lake | Junco Lake |
-| Keplinger Lake | Lake of Many Winds | Lake Powell |
-| Lark Pond | Twin Lake (Lower) | Twin Lake (upper) |
+| Copeland Lake | Falcon Lake | Fan Lake | 
+| Frigid Lake | Hutcheson Lake (lower) | Hutcheson Lake (middle) | 
+| Hutcheson Lake (upper) | Indigo Pond | Isolation Lake | 
+| Junco Lake | Keplinger Lake | Lake of Many Winds | 
+| Lake Powell | Lark Pond | Twin Lake (Lower) |
+| Twin Lake (upper) | | |
 
 ### Mummy Range
 
-| <span style="font-weight:normal">Beaver Ponds</span> | <span style="font-weight:normal">Bighorn Lake</span> |<span style="font-weight:normal">Cirque Lake</span> |
+| <span style="font-weight:normal">Beaver Ponds</span> |<span style="font-weight:normal">Cirque Lake</span> | <span style="font-weight:normal">Emmaline Lake</span> |
 | :---: | :---: | :---: |
-| Emmaline Lake | Fay Lake (lower) | Fay Lake (middle) |
-| Fay Lake (upper) | Hazeline Lake | "Kettle Tarn" |
-| Lake Chiquita | Lake Dunraven | Lake Husted |
-| Lake Louise | Looking Glass Lake | Lost Lake |
-| Mirror Lake | Potts Puddle | Rowe Glacier/"Rowe Glacier Lake" |
-| "Scotch Lake" | Sheep Lakes | Spectacle Lake (lower) |
-| Spectacle Lake (upper) | "Whiskey Lake" | |
+| Fay Lake (lower) | Fay Lake (middle) | Fay Lake (upper) |
+| Hazeline Lake | "Kettle Tarn" | Chiquita Lake |
+| Lake Dunraven | Lake Husted | Lake Louise |
+| "Looking Glass Lake" | Lost Lake | Mirror Lake |
+| Potts Puddle | Rowe Glacier/"Rowe Glacier Lake" | "Scotch Lake" |
+| Sheep Lakes | Spectacle Lake (lower) | Spectacle Lake (upper) |
+| "Whiskey Lake" | | |
 
 ### Never Summer Range
 
 | <span style="font-weight:normal">Blue Lake (Never Summer)</span> | <span style="font-weight:normal">Bowen Lake</span> |<span style="font-weight:normal">Lake Agnes</span> |
 | :---: | :---: | :---: |
-| Lake of the Clouds | Michigan Lake (lower) | Michigan Lake (middle) |
+| Bighorn Lake | Chickaree Lake | Lake of the Clouds |
+| Lake Irene | Michigan Lake (lower) | Michigan Lake (middle) |
 | Parika Lake | Pinnacle Pool | Ruby Lake |
 | Snow Lake | | |
 
 ### North / East Inlet
 
-| <span style="font-weight:normal">Bench Lake</span> | <span style="font-weight:normal">Big Pool</span> |<span style="font-weight:normal">Chickaree Lake</span> |
+| <span style="font-weight:normal">Bench Lake</span> | <span style="font-weight:normal">Big Pool</span> |<span style="font-weight:normal">Lake Solitude</span> |
 | :---: | :---: | :---: |
-| Lake Catherine | Lake Solitude (N. Inlet) | Pettingell Lake |
-| Ptarmigan Lake | Ten Lake park | |
+| Lake Catherine | Pettingell Lake | Ten Lake Park |
 
 ### Central
 
@@ -85,11 +85,15 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Julian Lake | Lake Amore | Little Rock Lake |
 | Lonesome Lake | Love Lake | Murphy Lake |
 | Rainbow Lake | Rock Lake | Snowdrift Lake |
-| Timber Lake | "Wonderland Lake" | |
+| Timber Lake | "Wonderland Lake" | "Sprague Tarn" |
+| Hourglass Lake | Ptarmigan Lake | |
 
 ### Other
 
-| <span style="font-weight:normal">Adams Lake</span> | <span style="font-weight:normal">Chasm Lake</span> |<span style="font-weight:normal">Lake Estes</span> |
+| <span style="font-weight:normal">Adams Lake</span> | <span style="font-weight:normal">Chasm Lake</span> |<span style="font-weight:normal">Lily Lake</span> |
 | :---: | :---: | :---: |
-| Lake Irene | Lily Lake | Peacock Pool |
-| Watanga Lake | | |
+| Peacock Pool | Watanga Lake | |
+
+# Lake Locations
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
