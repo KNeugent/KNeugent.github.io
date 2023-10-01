@@ -3,7 +3,9 @@ layout: page
 title: RMNP Lakes
 ---
 
-There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, my list of remaining lakes, as well as a google map.
+There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon!
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="800" height="800"></iframe>
 
 # Lakes I've Visited
 
@@ -76,7 +78,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | :---: | :---: | :---: |
 | Lake Catherine | Pettingell Lake | Ten Lake Park |
 
-### Central
+### Center / Continental Divide
 
 | <span style="font-weight:normal">Arrowhead Lake</span> | <span style="font-weight:normal">Azure Lake</span> |<span style="font-weight:normal">Doughnut Lake</span> |
 | :---: | :---: | :---: |
@@ -93,7 +95,3 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | <span style="font-weight:normal">Adams Lake</span> | <span style="font-weight:normal">Chasm Lake</span> |<span style="font-weight:normal">Lily Lake</span> |
 | :---: | :---: | :---: |
 | Peacock Pool | Watanga Lake | |
-
-# Lake Locations
-
-<iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
