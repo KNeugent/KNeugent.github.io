@@ -92,5 +92,4 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 
 ### Other
 
-| <span style="font-weight:normal">Adams Lake</span> |<span style="font-weight:normal">Lily Lake</span> | <span style="font-weight:normal">Watanga Lake</span> |
-| :---: | :---: | :---: |
+Adams Lake, Lily Lake, and Watanga Lake
