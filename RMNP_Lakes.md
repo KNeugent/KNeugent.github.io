@@ -3,7 +3,7 @@ layout: page
 title: RMNP Lakes
 ---
 
-There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon!
+There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="725" height="800"></iframe>
 
@@ -31,8 +31,8 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Chasm Lake](/assets/img/ChasmLake.jpeg)](/assets/img/ChasmLake.jpeg) Chasm Lake | [![Peacock Pond](/assets/img/PeacockPond.jpeg)](/assets/img/PeacockPond.jpeg) Peacock Pond | [![Sprague Lake](/assets/img/SpragueLake.JPG)](/assets/img/SpragueLake.JPG) Sprague Lake |
 | [![Lily Lake](/assets/img/LilyLake.JPG)](/assets/img/LilyLake.JPG) Lily Lake | [![Sheep Lakes](/assets/img/SheepLakes.JPG)](/assets/img/SheepLakes.JPG) Sheep Lakes | |
 
-# Lakes Remaining (92)
-This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. A few of the lakes are _right_ outside park boundaries, but I've still included them here.
+# Lakes Remaining (85)
+This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. I also double-checked the lake locations with the [RMNP Boundary](https://romo-nps.opendata.arcgis.com/datasets/7cb5f22df8c44900a9f6632adb5f96a5/explore?location=40.459014%2C-105.501633%2C13.00) since a few lakes are _right_ on the border.
 
 ### Bear Lake Area
 
@@ -54,29 +54,28 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 
 ### Mummy Range
 
-| <span style="font-weight:normal">Beaver Ponds</span> |<span style="font-weight:normal">Cirque Lake</span> | <span style="font-weight:normal">Emmaline Lake</span> |
+| <span style="font-weight:normal">Beaver Ponds</span> |<span style="font-weight:normal">Hazeline Lake</span> | <span style="font-weight:normal">"Kettle Tarn"</span> |
 | :---: | :---: | :---: |
 | Fay Lake (lower) | Fay Lake (middle) | Fay Lake (upper) |
-| Hazeline Lake | "Kettle Tarn" | Chiquita Lake |
 | Lake Dunraven | Lake Husted | Lake Louise |
 | "Looking Glass Lake" | Lost Lake | Mirror Lake |
 | Potts Puddle | Rowe Glacier/"Rowe Glacier Lake" | "Scotch Lake" |
 | Spectacle Lake (lower) | Spectacle Lake (upper) | "Whiskey Lake" |
+| Chiquita Lake | | |
 
 ### Never Summer Range
 
-| <span style="font-weight:normal">Blue Lake (Never Summer)</span> | <span style="font-weight:normal">Bowen Lake</span> |<span style="font-weight:normal">Lake Agnes</span> |
+| <span style="font-weight:normal">Blue Lake (Never Summer)</span> | <span style="font-weight:normal">Bowen Lake</span> |<span style="font-weight:normal">Lake Irene</span> |
 | :---: | :---: | :---: |
 | Bighorn Lake | Chickaree Lake | Lake of the Clouds |
-| Lake Irene | Michigan Lake (lower) | Michigan Lake (middle) |
 | Parika Lake | Pinnacle Pool | Ruby Lake |
-| Snow Lake | | |
 
 ### North / East Inlet
 
 | <span style="font-weight:normal">Bench Lake</span> | <span style="font-weight:normal">Big Pool</span> |<span style="font-weight:normal">Lake Solitude</span> |
 | :---: | :---: | :---: |
 | Lake Catherine | Pettingell Lake | Ten Lake Park |
+| Adams Lake | | |
 
 ### Center / Continental Divide
 
@@ -89,7 +88,3 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Rainbow Lake | Rock Lake | Snowdrift Lake |
 | Timber Lake | "Wonderland Lake" | "Sprague Tarn" |
 | Hourglass Lake | Ptarmigan Lake | |
-
-### Other
-
-Adams Lake and Watanga Lake
