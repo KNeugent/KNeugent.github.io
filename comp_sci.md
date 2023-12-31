@@ -3,11 +3,7 @@ layout: page
 title: Computer Science
 ---
 
-I recently started as a senior data scientist at CableLabs and look forward to expanding my programming skill-set (and updating this page) soon. In the meantime, here I briefly summarize a few of my more recent astronomy-focused programming projects as well as an overview of my experience working in cyber security.
-
 # Astronomy programming projects
-
-Skills: `Python` `pandas` `NumPy` `scikit-learn` `matplotlib` `jupyter notebooks`
 
 ## k-Nearest Neighbor Classifier for Binary Stars
 
