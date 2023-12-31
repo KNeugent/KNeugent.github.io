@@ -7,7 +7,7 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="725" height="800"></iframe>
 
-# Lakes I've Visited (56)
+# Lakes I've Visited (59)
 
 | [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | :---: | :---: | :---: |
@@ -28,9 +28,10 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Solitude Lake](/assets/img/SolitudeLake.JPG)](/assets/img/SolitudeLake.JPG) Solitude Lake | [![Spirit Lake](/assets/img/SpiritLake.JPG)](/assets/img/SpiritLake.JPG) Spirit Lake | [![Spruce Lake](/assets/img/SpruceLake.JPG)](/assets/img/SpruceLake.JPG) Spruce Lake |
 | [![The Loch](/assets/img/TheLoch.JPG)](/assets/img/TheLoch.JPG) The Loch | [![The Pool](/assets/img/ThePool.JPG)](/assets/img/ThePool.JPG) The Pool | [![Thunder Lake](/assets/img/ThunderLake.JPG)](/assets/img/ThunderLake.JPG) Thunder Lake |
 | [![Tourmaline Lake](/assets/img/TourmalineLake.JPG)](/assets/img/TourmalineLake.JPG) Tourmaline Lake | [![Two Rivers Lake](/assets/img/TwoRiversLake.JPG)](/assets/img/TwoRiversLake.JPG) Two Rivers Lake | [![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) Ypsilon Lake |
-| [![Chasm Lake](/assets/img/ChasmLake.jpeg)](/assets/img/ChasmLake.jpeg) Chasm Lake | [![Peacock Pond](/assets/img/PeacockPond.jpeg)](/assets/img/PeacockPond.jpeg) Peacock Pond | |
+| [![Chasm Lake](/assets/img/ChasmLake.jpeg)](/assets/img/ChasmLake.jpeg) Chasm Lake | [![Peacock Pond](/assets/img/PeacockPond.jpeg)](/assets/img/PeacockPond.jpeg) Peacock Pond | [![Sprague Lake] (/assets/img/SpragueLake.JPG)](/assets/img/SpragueLake.JPG) Sprague Lake |
+| [![Lily Lake](/assets/img/LilyLake.JPG)](/assets/img/LilyLake.JPG) Lily Lake | [![Sheep Lakes](/assets/img/SheepLakes.JPG)](/assets/img/SheepLakes.JPG) Sheep Lakes | |
 
-# Lakes Remaining (95)
+# Lakes Remaining (92)
 This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. A few of the lakes are _right_ outside park boundaries, but I've still included them here.
 
 ### Bear Lake Area
@@ -39,7 +40,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | :---: | :---: | :---: |
 | "Italy Lake" | Loomis Lake | Marigold Lake |
 | Marigold Pond | "Pool of Jade" | "Primrose Pond" |
-| Round Pond | Sprague Lake | |
+| Round Pond | | |
 
 ### Wild Basin
 
@@ -60,8 +61,7 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 | Lake Dunraven | Lake Husted | Lake Louise |
 | "Looking Glass Lake" | Lost Lake | Mirror Lake |
 | Potts Puddle | Rowe Glacier/"Rowe Glacier Lake" | "Scotch Lake" |
-| Sheep Lakes | Spectacle Lake (lower) | Spectacle Lake (upper) |
-| "Whiskey Lake" | | |
+| Spectacle Lake (lower) | Spectacle Lake (upper) | "Whiskey Lake" |
 
 ### Never Summer Range
 
@@ -92,4 +92,4 @@ This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://w
 
 ### Other
 
-Adams Lake, Lily Lake, and Watanga Lake
+Adams Lake and Watanga Lake
