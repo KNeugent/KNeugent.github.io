@@ -28,7 +28,7 @@ There are [around 150](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Solitude Lake](/assets/img/SolitudeLake.JPG)](/assets/img/SolitudeLake.JPG) Solitude Lake | [![Spirit Lake](/assets/img/SpiritLake.JPG)](/assets/img/SpiritLake.JPG) Spirit Lake | [![Spruce Lake](/assets/img/SpruceLake.JPG)](/assets/img/SpruceLake.JPG) Spruce Lake |
 | [![The Loch](/assets/img/TheLoch.JPG)](/assets/img/TheLoch.JPG) The Loch | [![The Pool](/assets/img/ThePool.JPG)](/assets/img/ThePool.JPG) The Pool | [![Thunder Lake](/assets/img/ThunderLake.JPG)](/assets/img/ThunderLake.JPG) Thunder Lake |
 | [![Tourmaline Lake](/assets/img/TourmalineLake.JPG)](/assets/img/TourmalineLake.JPG) Tourmaline Lake | [![Two Rivers Lake](/assets/img/TwoRiversLake.JPG)](/assets/img/TwoRiversLake.JPG) Two Rivers Lake | [![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) Ypsilon Lake |
-| [![Chasm Lake](/assets/img/ChasmLake.jpeg)](/assets/img/ChasmLake.jpeg) Chasm Lake | [![Peacock Pond](/assets/img/PeacockPond.jpeg)](/assets/img/PeacockPond.jpeg) Peacock Pond | [![Sprague Lake] (/assets/img/SpragueLake.JPG)](/assets/img/SpragueLake.JPG) Sprague Lake |
+| [![Chasm Lake](/assets/img/ChasmLake.jpeg)](/assets/img/ChasmLake.jpeg) Chasm Lake | [![Peacock Pond](/assets/img/PeacockPond.jpeg)](/assets/img/PeacockPond.jpeg) Peacock Pond | [![Sprague Lake](/assets/img/SpragueLake.JPG)](/assets/img/SpragueLake.JPG) Sprague Lake |
 | [![Lily Lake](/assets/img/LilyLake.JPG)](/assets/img/LilyLake.JPG) Lily Lake | [![Sheep Lakes](/assets/img/SheepLakes.JPG)](/assets/img/SheepLakes.JPG) Sheep Lakes | |
 
 # Lakes Remaining (92)
