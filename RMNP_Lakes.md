@@ -3,7 +3,14 @@ layout: page
 title: RMNP Lakes
 ---
 
-There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm) lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon!
+There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm) "named" lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon.
+
+I made this list for fun, and it isn't based off of any official record. I focused primarily on named lakes from a combination of Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. I also double-checked the lake locations with the [RMNP Boundary](https://romo-nps.opendata.arcgis.com/datasets/7cb5f22df8c44900a9f6632adb5f96a5/explore?location=40.459014%2C-105.501633%2C13.00) since a few lakes are _right_ on the border.
+
+As always, if you plan on hiking to these lakes yourself, please [Leave No Trace](https://www.nps.gov/romo/getinvolved/supportyourpark/leavenotrace.htm). In particular remember:
+* Stay on designated trails and hike in single file. Never shortcut switchbacks.
+* When traveling crosscountry, choose the most durable surfaces available: rock, gravel, dry grasses or snow. Spread out so you don't grind a path where one didn't exist before.
+* When you stop to rest, be careful not to mash vegetation. Sit on rocks, logs or in clearings.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="725" height="800"></iframe>
 
@@ -32,7 +39,6 @@ There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm)
 | [![Lily Lake](/assets/img/LilyLake.JPG)](/assets/img/LilyLake.JPG) Lily Lake | [![Sheep Lakes](/assets/img/SheepLakes.JPG)](/assets/img/SheepLakes.JPG) Sheep Lakes | |
 
 # Lakes Remaining (85)
-This list is primarily from Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. I also double-checked the lake locations with the [RMNP Boundary](https://romo-nps.opendata.arcgis.com/datasets/7cb5f22df8c44900a9f6632adb5f96a5/explore?location=40.459014%2C-105.501633%2C13.00) since a few lakes are _right_ on the border.
 
 ### Bear Lake Area
 
