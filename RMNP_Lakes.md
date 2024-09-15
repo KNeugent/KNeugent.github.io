@@ -16,11 +16,15 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 
 # Lakes I've Visited (59)
 
-| [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
+| [![Andrew's Tarn](/assets/img/AndrewsTarn.JPG)](/assets/img/AndrewsTarn.JPG) < style="font-weight:normal">Andrew's Tarn </span> |
+| [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> |
 | :---: | :---: | :---: |
+| [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
 | [![Chipmunk Lake](/assets/img/ChipmunkLake.JPG)](/assets/img/ChipmunkLake.JPG) Chipmunk Lake | [![Crystal Lake](/assets/img/CrystalLake.JPG)](/assets/img/CrystalLake.JPG) Crystal Lake | [![Cub Lake](/assets/img/CubLake.JPG)](/assets/img/CubLake.JPG) Cub Lake |
-| [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake | [![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake |
+| [![Dream Lake](/assets/img/DreamLake.JPG)](/assets/img/DreamLake.JPG) Dream Lake | [![Eagle Lake](/assets/img/EagleLake.JPG)](/assets/img/EagleLake.JPG) Eagle Lake | 
+[![Embryo Lake](/assets/img/EmbryoLake.jpeg)](/assets/img/EmbryoLake.jpeg) Embryo Lake |
+[![Emerald Lake](/assets/img/EmeraldLake.jpeg)](/assets/img/EmeraldLake.jpeg) Emerald Lake |
 | [![Fern Lake](/assets/img/FernLake.JPG)](/assets/img/FernLake.JPG) Fern Lake | [![Fifth Lake](/assets/img/FifthLake.jpg)](/assets/img/FifthLake.jpg) Fifth Lake | [![Finch Lake](/assets/img/FinchLake.JPG)](/assets/img/FinchLake.JPG) Finch Lake |
 | [![Fourth Lake](/assets/img/FourthLake.JPG)](/assets/img/FourthLake.JPG) Fourth Lake | [![Frozen Lake](/assets/img/FrozenLake.JPG)](/assets/img/FrozenLake.JPG) Frozen Lake | [![Gem Lake](/assets/img/GemLake.JPG)](/assets/img/GemLake.JPG) Gem Lake |
 | [![Green Lake](/assets/img/GreenLake.JPG)](/assets/img/GreenLake.JPG) Green Lake | [![Haynach Lake](/assets/img/HaynachLakes.JPG)](/assets/img/HaynachLakes.JPG) Haynach Lakes | [![Jewel Lake](/assets/img/JewelLake.jpeg)](/assets/img/JewelLake.jpeg) Jewel Lake |
@@ -42,11 +46,10 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 
 ### Bear Lake Area
 
-| <span style="font-weight:normal">Andrews Tarn</span> | <span style="font-weight:normal">Black Pool</span> |<span style="font-weight:normal">Embryo Lake</span> |
+| <span style="font-weight:normal">Black Pool</span> | <span style="font-weight:normal">"Italy Lake"</span> |<span style="font-weight:normal">Loomis Lake</span> |
 | :---: | :---: | :---: |
-| "Italy Lake" | Loomis Lake | Marigold Lake |
-| Marigold Pond | "Pool of Jade" | "Primrose Pond" |
-| Round Pond | | |
+| Marigold Lake | Marigold Pond | "Pool of Jade" |
+| "Primrose Pond" | Round Pond | |
 
 ### Wild Basin
 
