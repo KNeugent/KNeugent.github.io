@@ -16,8 +16,7 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 
 # Lakes I've Visited (59)
 
-| [![Andrew's Tarn](/assets/img/AndrewsTarn.JPG)](/assets/img/AndrewsTarn.JPG) < style="font-weight:normal">Andrew's Tarn </span> |
-| [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> |
+| [![Andrew's Tarn](/assets/img/AndrewsTarn.JPG)](/assets/img/AndrewsTarn.JPG) <style="font-weight:normal">Andrew's Tarn </span> | [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> |
 | :---: | :---: | :---: |
 | [![Black Lake](/assets/img/BlackLake.JPG)](/assets/img/BlackLake.JPG) <span style="font-weight:normal">Black Lake</span> |
 | [![Blue Lake](/assets/img/BlueLake.JPG)](/assets/img/BlueLake.JPG) Blue Lake (Glacier Gorge) | [![Bluebird Lake](/assets/img/BluebirdLake.JPG)](/assets/img/BluebirdLake.JPG) Bluebird Lake | [![Box Lake](/assets/img/BoxLake.JPG)](/assets/img/BoxLake.JPG) Box Lake |
