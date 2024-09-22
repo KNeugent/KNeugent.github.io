@@ -14,8 +14,9 @@ def generate_markdown_table(csv_file):
     # Sort lakes by lake name
     lakes.sort(key=lambda x: x[0])
 
-    # Begin Markdown table
-    markdown_output = ''
+    # Begin Markdown table with header row
+    markdown_output = '| ' * 3 + '\n'  # First row with 3 empty headers
+    markdown_output += '| :---: | :---: | :---: |\n'  # Second row as the separator
 
     # Process each row and format as Markdown
     for idx, (lake_name, image_name) in enumerate(lakes):
@@ -23,16 +24,20 @@ def generate_markdown_table(csv_file):
         cell_md = f'[![{lake_name}](/assets/img/{image_name})](/assets/img/{image_name}) ' \
                   f'<span style="font-weight:normal">{lake_name}</span>'
         
+        # Add the opening bar at the start of a new row
+        if idx % 3 == 0:
+            markdown_output += '| '
+
         # Add the cell to the row
         markdown_output += f'{cell_md} | '
 
-        # Start a new row every 3 cells
+        # Add a newline after every 3 cells
         if (idx + 1) % 3 == 0:
-            markdown_output = markdown_output.rstrip(' | ') + '\n\n'
-    
-    # Close any open row
+            markdown_output += '\n'
+
+    # If the last row has fewer than 3 cells, close the row
     if len(lakes) % 3 != 0:
-        markdown_output = markdown_output.rstrip(' | ') + '\n\n'
+        markdown_output += '\n'
     
     return markdown_output
 
