@@ -58,7 +58,7 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 
 [![Twin Lake (Lower)](/assets/img/LowerTwinLake.JPG)](/assets/img/LowerTwinLake.JPG) <span style="font-weight:normal">Twin Lake (Lower)</span> | [![Twin Lake (Upper)](/assets/img/UpperTwinLake.JPG)](/assets/img/UpperTwinLake.JPG) <span style="font-weight:normal">Twin Lake (Upper)</span> | [![Two Rivers Lake](/assets/img/TwoRiversLake.JPG)](/assets/img/TwoRiversLake.JPG) <span style="font-weight:normal">Two Rivers Lake</span>
 
-[![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) <span style="font-weight:normal">Ypsilon Lake</span> | |
+[![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) <span style="font-weight:normal">Ypsilon Lake</span> | | |
 
 # Lakes Remaining (80)
 
