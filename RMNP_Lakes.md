@@ -3,7 +3,7 @@ layout: page
 title: RMNP Lakes
 ---
 
-There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm) "named" lakes in Rocky Mountain National Park, and I'm in the process of hiking to all of them! Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon.
+There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm) "named" lakes in Rocky Mountain National Park, and I someday hope to hike to all of them! Some health issues have prevented me from making progress over the last couple of summers, but I hope to be back to hiking soon. Below are pictures of the lakes I've visited so far, as well as the ones I hope to visit soon.
 
 I made this list for fun, and it isn't based off of any official record. I focused primarily on named lakes from a combination of Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. I also double-checked the lake locations with the [RMNP Boundary](https://romo-nps.opendata.arcgis.com/datasets/7cb5f22df8c44900a9f6632adb5f96a5/explore?location=40.459014%2C-105.501633%2C13.00) since a few lakes are _right_ on the border.
 
