@@ -7,6 +7,10 @@ There are [around 145](https://www.nps.gov/romo/learn/management/statistics.htm)
 
 I made this list for fun, and it isn't based off of any official record. I focused primarily on named lakes from a combination of Lisa Foster's [RMNP Complete Hiking Guide](https://www.amazon.com/Rocky-Mountain-National-Park-Complete/dp/0615526845/ref=sr_1_1?crid=VFZV6XY9JN4X&keywords=lisa+foster&qid=1696050466&sprefix=Lisa+Foster%2Caps%2C185&sr=8-1), with some supplements from [this website](http://www.hikingrmnp.org/p/the-big-list.html) and personal experience. I also double-checked the lake locations with the [RMNP Boundary](https://romo-nps.opendata.arcgis.com/datasets/7cb5f22df8c44900a9f6632adb5f96a5/explore?location=40.459014%2C-105.501633%2C13.00) since a few lakes are _right_ on the border.
 
+Some notes:
+- 6/2026: There seem to be two "Beaver Pond" locations. One is right off of TRR and the other is on the trail to Cub Lake. I've visited the TRR pull-off a couple of times and I've never seen anything lake-like among the boardwalk, so I've decided to call the Beaver Ponds the group of small lakes around a mile into the Cub Lake trail. 
+- 5/2026: When I visited Chickadee Pond back in ~2013, there wasn't any water so I didn't include it in my original list. However, from recent trip reports, it sounds like a lovely lake so I've added it!
+
 As always, if you plan on hiking to these lakes yourself, please [Leave No Trace](https://www.nps.gov/romo/getinvolved/supportyourpark/leavenotrace.htm). In particular remember:
 * Stay on designated trails and hike in single file. Never shortcut switchbacks.
 * When traveling crosscountry, choose the most durable surfaces available: rock, gravel, dry grasses or snow. Spread out so you don't grind a path where one didn't exist before.
