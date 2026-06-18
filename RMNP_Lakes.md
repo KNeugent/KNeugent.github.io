@@ -14,7 +14,7 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 
 <iframe src="https://www.google.com/maps/d/embed?mid=18-YcNqJfW-634V9MNQmVZCSmpFcNxFk&hl=en&ehbc=2E312F" width="725" height="800"></iframe>
 
-# Lakes I've Visited (64)
+# Lakes I've Visited (65)
 
 | [![Andrew's Tarn](/assets/img/AndrewsTarn.JPG)](/assets/img/AndrewsTarn.JPG) <span style="font-weight:normal">Andrew's Tarn</span> | [![Bear Lake](/assets/img/BearLake.JPG)](/assets/img/BearLake.JPG) <span style="font-weight:normal">Bear Lake</span> | [![Bierstadt Lake](/assets/img/BierstadtLake.jpg)](/assets/img/BierstadtLake.jpg) <span style="font-weight:normal">Bierstadt Lake</span> |
 | :---: | :---: | :---: |
@@ -38,9 +38,9 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 | [![Sprague Lake](/assets/img/SpragueLake.JPG)](/assets/img/SpragueLake.JPG) <span style="font-weight:normal">Sprague Lake</span> | [![Spruce Lake](/assets/img/SpruceLake.JPG)](/assets/img/SpruceLake.JPG) <span style="font-weight:normal">Spruce Lake</span> | [![The Loch](/assets/img/TheLoch.JPG)](/assets/img/TheLoch.JPG) <span style="font-weight:normal">The Loch</span> |
 | [![The Pool](/assets/img/ThePool.JPG)](/assets/img/ThePool.JPG) <span style="font-weight:normal">The Pool</span> | [![Thunder Lake](/assets/img/ThunderLake.JPG)](/assets/img/ThunderLake.JPG) <span style="font-weight:normal">Thunder Lake</span> | [![Tourmaline Lake](/assets/img/TourmalineLake.JPG)](/assets/img/TourmalineLake.JPG) <span style="font-weight:normal">Tourmaline Lake</span> |
 | [![Twin Lake (Lower)](/assets/img/LowerTwinLake.JPG)](/assets/img/LowerTwinLake.JPG) <span style="font-weight:normal">Twin Lake (Lower)</span> | [![Twin Lake (Upper)](/assets/img/UpperTwinLake.JPG)](/assets/img/UpperTwinLake.JPG) <span style="font-weight:normal">Twin Lake (Upper)</span> | [![Two Rivers Lake](/assets/img/TwoRiversLake.JPG)](/assets/img/TwoRiversLake.JPG) <span style="font-weight:normal">Two Rivers Lake</span> | 
-| [![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) <span style="font-weight:normal">Ypsilon Lake</span> | | |
+| [![Ypsilon Lake](/assets/img/YpsilonLake.JPG)](/assets/img/YpsilonLake.JPG) <span style="font-weight:normal">Ypsilon Lake</span> | [![Beaver Ponds](/assets/img/BeaverPonds.jpg)](/assets/img/BeaverPonds.jpg) <spand style="font-weight:normal">Beaver Ponds</span> | |
 
-# Lakes Remaining (80)
+# Lakes Remaining (81)
 
 ### Bear Lake Area
 
@@ -56,18 +56,17 @@ As always, if you plan on hiking to these lakes yourself, please [Leave No Trace
 | Fan Lake | Lake Powell | Frigid Lake |
 | Hutcheson Lake (lower) | Hutcheson Lake (middle) | Hutcheson Lake (upper) |
 | Indigo Pond | Isolation Lake | Junco Lake | 
-| Keplinger Lake | Lake of Many Winds | |
+| Keplinger Lake | Lake of Many Winds | Chickadee Pond |
 
 ### Mummy Range
 
-| <span style="font-weight:normal">Beaver Ponds</span> |<span style="font-weight:normal">Hazeline Lake</span> | <span style="font-weight:normal">"Kettle Tarn"</span> |
+| <span style="font-weight:normal">Chiquita Lake</span> |<span style="font-weight:normal">Hazeline Lake</span> | <span style="font-weight:normal">"Kettle Tarn"</span> |
 | :---: | :---: | :---: |
 | Fay Lake (lower) | Fay Lake (middle) | Fay Lake (upper) |
 | Lake Dunraven | Lake Husted | Lake Louise |
 | "Looking Glass Lake" | Lost Lake | Mirror Lake |
 | Potts Puddle | Rowe Glacier/"Rowe Glacier Lake" | "Scotch Lake" |
 | Spectacle Lake (lower) | Spectacle Lake (upper) | "Whiskey Lake" |
-| Chiquita Lake | | |
 
 ### Never Summer Range
 
